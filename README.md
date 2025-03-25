@@ -19,7 +19,7 @@ The task allowed for summarization. Originally, the task suggested using meta-ll
 
 1. Clone the repository
    ```
-   git clone <repo>
+   git clone https://github.com/JanisJIvdris/llm_sumarizer
    ```
 2. Create a virtual environment and install dependencies:
    ```bash
